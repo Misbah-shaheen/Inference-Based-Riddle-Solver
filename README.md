@@ -41,7 +41,7 @@ pip install z3-solver
 
 ## Credits
 This project was developed with contributions from:
-- [Fizza Kashif](https://www.linkedin.com/in/fizzakashif)
-- [Hareem Fatima](https://www.linkedin.com/in/hareemfatima)
+- [Fizza Kashif](https://github.com/fizza49)
+- [Hareem Fatima](https://github.com/HareemFatima5)
 
 Enjoy solving riddles and testing your logical skills!
